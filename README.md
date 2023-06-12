@@ -6,9 +6,9 @@ Extensive information about the homelab and its setup can be found on the locall
 
 To Do List
 
-   *Ansible Environment*
+    *Ansible Environment*
     Explore VS Code
-    Bind VS Code and Github
+    ~Bind VS Code and Github~
     Create Ansible playbooks 
     Run, Test and Schedule Ansible playbooks via Semaphore
     Add more nodes to master Inventory file
