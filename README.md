@@ -3,7 +3,6 @@
 Extensive information about the homelab and its setup can be found on the locally hosted wiki.  This will serve as a placeholder for the time being.
 
 
-
 To Do List
 
     *Ansible Environment*
@@ -45,5 +44,17 @@ To Do List
     spin up opnsense vm
     add datastore
     add network bridges for physical and virtual nics
+    
+    //*Rack Cleanup*
+    After power migration, run power cables through CMA's where possible
+    Remove 2nd PSU cables
+    Run Power cables down the right side through channels where possible
+    Install Rack LEDs
+    Rack mini switch on shelf?
+    Try to bind patch panel runs down the left side
+    Swap out cat6 runs for longer black cables where needed
+    Run network cables through CMA's where possible
+    try to label cables where possible with standardized source and destination tags
+    
     
 
