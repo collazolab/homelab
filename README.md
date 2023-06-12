@@ -10,4 +10,7 @@ To Do List
     Bind VS Code and Github
     Create Ansible playbooks 
     Run, Test and Schedule Ansible playbooks via Semaphore
+    Add more nodes to Inventory file
+    Get rid of other Ansible attempts
+    Clean up and centralize SSH stuff
     
