@@ -15,6 +15,7 @@ To Do List
     Get rid of other Ansible instances
     Clean up and centralize SSH stuff
     
+    *Power Migration*
     Plug in alternate UPS
     Connect R610 2nd PSU to alt. UPS
     Connect R510 2nd PSU to alt. UPS
@@ -32,6 +33,17 @@ To Do List
     monitor nut-server
     Test that everything came back up successfully
 
-    
+    *R210 PVE Node*
+    Troubleshoot booting issue
+        Last things changed - new NIC, ram not seated?
+        idrac logs?
+    Load PVE onto least performant SSD
+    name it r210-pve1?
+    Static IP
+    alerting email address?
+    take inventory of ram
+    spin up opnsense vm
+    add datastore
+    add network bridges for physical and virtual nics
     
 
