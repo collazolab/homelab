@@ -6,7 +6,7 @@ Extensive information about the homelab and its setup can be found on the locall
 
 To Do List
 
-   //*Ansible Environment*
+   *Ansible Environment*
     Explore VS Code
     Bind VS Code and Github
     Create Ansible playbooks 
