@@ -14,3 +14,5 @@ To Do List
     Get rid of other Ansible attempts
     Clean up and centralize SSH stuff
     
+    Plug in alternate UPS
+    Connect R610 2nd PSU to alt. UPS
