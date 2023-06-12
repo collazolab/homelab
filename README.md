@@ -6,7 +6,7 @@ Extensive information about the homelab and its setup can be found on the locall
 
 To Do List
 
-    *Ansible Environment*
+   //*Ansible Environment*
     Explore VS Code
     Bind VS Code and Github
     Create Ansible playbooks 
@@ -15,7 +15,7 @@ To Do List
     Get rid of other Ansible instances
     Clean up and centralize SSH stuff
     
-    *Power Migration*
+    //*Power Migration*
     Plug in alternate UPS
     Connect R610 2nd PSU to alt. UPS
     Connect R510 2nd PSU to alt. UPS
@@ -33,7 +33,7 @@ To Do List
     monitor nut-server
     Test that everything came back up successfully
 
-    *R210 PVE Node*
+    //*R210 PVE Node*
     Troubleshoot booting issue
         Last things changed - new NIC, ram not seated?
         idrac logs?
