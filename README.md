@@ -6,6 +6,7 @@ Extensive information about the homelab and its setup can be found on the locall
 
 To Do List
 
+    *Ansible Environment*
     Explore VS Code
     Bind VS Code and Github
     Create Ansible playbooks 
@@ -30,5 +31,7 @@ To Do List
     Plug new 0U PDU into UPS1
     monitor nut-server
     Test that everything came back up successfully
+
+    
     
 
