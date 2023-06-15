@@ -15,18 +15,7 @@ To Do List
     Clean up and centralize SSH stuff
     
     //*Power Migration*
-    Plug in alternate UPS
-    Connect R610 2nd PSU to alt. UPS
-    Connect R510 2nd PSU to alt. UPS
-    Static IP reservations for essential VMs
-    Static IP reservations for PVE nodes
-    Backup OPNsense config
-    Power down unneccessary stuff
-        UNVR
-        Beelink
-        CM4
     get alt. UPS checked into nut-server
-    Pull the PDU plug on UPS1
     Change battery in UPS1
     Plug new 0U PDU into UPS1
     monitor nut-server
